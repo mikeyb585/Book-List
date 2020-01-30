@@ -103,7 +103,7 @@ document.getElementById('book-list').addEventListener('click', function(e){
     ui.deleteBook(e.target);
 
     // 26th Show message
-    ui.showAlert('Book Removed!', 'success');
+    // (need to fix) ui.showAlert('Book Removed!', 'success');
 
     e.preventDefault();
 });
