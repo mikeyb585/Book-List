@@ -1,4 +1,5 @@
 # Book-List
+A simple application to create a book list.
 
 ## Project Description
 I completed this project during my Modern Javascript course. I first built the project on a ES5 feature using prototypes
